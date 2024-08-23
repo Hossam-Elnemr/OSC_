@@ -1,0 +1,14 @@
+mkdir Hossam
+cd Hossam
+touch one.txt two.txt three.txt four.txt
+mkdir BAD
+touch bad.txt
+mv one.txt ~/Downloads
+cp one.txt copy.txt
+cd ~/Hossam
+nano two.txt
+Hossam ctrl+O then ctrl+X
+nano three.txt (ctrl + shift + v, ctrl+o, enter, ctrl+x)
+mv three.txt hello.txt
+rm four.txt
+rm -r BAD
