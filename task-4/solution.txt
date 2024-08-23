@@ -1,4 +1,4 @@
-sudo useradd -m newuser
+sudo useradd -m newuser 
 sudo passwd newuser
 sudo groupadd newgroup
 sudo usermod -a -G newgroup newuser

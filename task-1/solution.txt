@@ -1,5 +1,5 @@
 mkdir Hossam
-cd Hossam
+cd Hossam 
 touch one.txt two.txt three.txt four.txt
 mkdir BAD
 touch bad.txt
