@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 cd ~/my_files
 initial=$(pwd)
 for i in ~/my_files/*.txt
